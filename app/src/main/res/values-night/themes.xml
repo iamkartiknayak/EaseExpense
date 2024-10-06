@@ -1,0 +1,26 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EaseExpense" parent="Theme.Material3.Light.NoActionBar">
+        <!--         cursor, selection handle-->
+        <item name="colorPrimary">@color/accentColor</item>
+        <!--         floating action button-->
+        <item name="colorPrimaryContainer">@color/accentColor</item>
+        <!--        bottom navbar indicator-->
+        <item name="colorSecondaryContainer">@color/accentOpacity</item>
+        <!--        edittext text selection color-->
+        <item name="android:textColorHighlight">@color/accentOpacity</item>
+    </style>
+
+    <!--    date picker theme-->
+    <style name="DatePickerTheme" parent="Theme.MaterialComponents.Light.Dialog">
+        <item name="colorPrimary">@color/accentColor</item>
+        <item name="colorPrimaryDark">@color/accentColor</item>
+        <item name="colorAccent">@color/accentColor</item>
+        <item name="android:buttonBarPositiveButtonStyle">@style/DatePickerTheme.ButtonStyle</item>
+        <item name="android:buttonBarNegativeButtonStyle">@style/DatePickerTheme.ButtonStyle</item>
+    </style>
+
+    <style name="DatePickerTheme.ButtonStyle" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">@color/accentColor</item>
+    </style>
+</resources>

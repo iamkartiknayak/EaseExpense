@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboardBNI"
+        android:enabled="true"
+        android:icon="@drawable/selector_navbar_transactions_ic"
+        android:title="Transactions" />
+
+    <item
+        android:id="@+id/wishListBNI"
+        android:enabled="true"
+        android:icon="@drawable/selector_navbar_wishlist_ic"
+        android:title="Wishlist" />
+
+    <item
+        android:id="@+id/settingsBNI"
+        android:enabled="true"
+        android:icon="@drawable/selector_navbar_settings_ic"
+        android:title="Settings" />
+</menu>

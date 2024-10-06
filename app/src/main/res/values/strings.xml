@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EaseExpense</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wishlist_congrats_msg">Congratulations! 🎉 You\'ve saved enough</string>
+    <string name="wishlist_item">Wishlist Item</string>
+    <string name="view_image">View Image</string>
+    <string name="add_image">Add Image</string>
+    <string name="cd_back_button">Back Button</string>
+    <string name="intro_transactions_text">Easily Manage all your transactions in on place. Get detailed insights and stay on top of your finances effortlessly.</string>
+    <string name="intro_analytics_text">Visualize your data with interactive charts and graphs. Gain valuable insights with comprehensive analytics at your fingertips</string>
+    <string name="intro_wishlist_text">Manage your wishlist with ease. Add, edit, and organize your desired items to keep track of everything you want.</string>
+    <string name="intro_auth_text">Secure your account with on-device authentication options. Choose from passwords, biometrics, and more to protect your data.</string>
+    <string name="auth_switch_message">Authentication will be active if device security is set up</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="red">#FD0101</color>
+    <color name="green">#4CAF50</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="accentColor">#009788</color>
+    <color name="accentOpacity">#5C009788</color>
+    <color name="transparent">#00009788</color>
+    <color name="tileColor">#40009788</color>
+    <color name="grey">#4F4B51</color>
+    <color name="lightGrey">#4DDDDCE5</color>
+    <color name="editTextIconColor">#B3ADB2</color>
+</resources>
