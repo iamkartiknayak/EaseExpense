@@ -5,11 +5,11 @@ A simple and intuitive expense tracking app to help you manage your daily financ
 ### Installation
 #### Clone the repository using the following command:
 ```bash    
-git clone https://github.com/iamkartiknayak/EaseExpense.git
+git clone https://github.com/iamkartiknayak/ease-expense.git
 ```
 #### Open the project directory in Android Studio to get started
 ```bash
-mv cd ExpenseTracker; ./studio .
+cd ease-expense; ./studio .
 ```
 
 ### Screenshots
